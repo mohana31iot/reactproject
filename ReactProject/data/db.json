@@ -1,0 +1,35 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "checked": false,
+      "game": "Swimming"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "game": "Foot Ball"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "game": "Hockey"
+    },
+    {
+      "id": "5",
+      "checked": false,
+      "game": "Cricket"
+    },
+    {
+      "id": "6",
+      "checked": false,
+      "game": "volley ball"
+    },
+     {
+      "id": "7",
+      "checked": false,
+      "game": "Skating"
+    }
+    
+  ]
+}
